@@ -1,6 +1,6 @@
 class KLib {
     fun foo() {
-        val c = 0
+        val c = 2
     }
 
     //private fun bar() {}
