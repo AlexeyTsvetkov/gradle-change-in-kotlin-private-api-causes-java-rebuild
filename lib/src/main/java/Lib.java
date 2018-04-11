@@ -3,5 +3,5 @@ public class Lib {
         int c = 0;
     }
 
-    private void bar() {}
+    //private void bar() {}
 }
