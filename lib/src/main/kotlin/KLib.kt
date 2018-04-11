@@ -3,5 +3,5 @@ class KLib {
         val c = 0
     }
 
-    private fun bar() {}
+    //private fun bar() {}
 }
